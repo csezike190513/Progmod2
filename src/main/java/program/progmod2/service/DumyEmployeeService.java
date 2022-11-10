@@ -16,7 +16,7 @@ public class DumyEmployeeService {
 
     public void createDumyEmployee(String email) {
         DumyEmployee dumyEmployee = new DumyEmployee(
-                "asdfg",
+                "akjmn bg",
                 "sdfghjléá",
                 email,
                 "+56942",
