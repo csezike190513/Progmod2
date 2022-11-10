@@ -38,14 +38,14 @@ public class DumyEmployee {
 
     }
 
-    public Integer getEmployeeId() {
+   /* public Integer getEmployeeId() {
         return employeeId;
     }
 
     public void setEmployeeId(Integer employeeId) {
         this.employeeId = employeeId;
     }
-
+*/
     public String getFristName() {
         return fristName;
     }
