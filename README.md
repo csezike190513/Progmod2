@@ -9,7 +9,7 @@
 és megnézi hogy az email helyes formátumu e (helyes formátum: "*valami@valami*")
 (<sub> jelen állapotában nagyrészt ismétlődő sorokat tartalmaz </sub>)
 
-## Post
+## @Post
 > bevárt formátum:
 ```
 {
@@ -22,6 +22,8 @@
   "salary": 0
 }
 ```
+## @Get
+> Fentebb látott formátumban egymás alatt vissza adja az eddigi elemeket a táblában
 
 ## Controller
 > Post és get helye,
