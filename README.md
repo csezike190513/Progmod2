@@ -9,6 +9,20 @@
 és megnézi hogy az email helyes formátumu e (helyes formátum: "*valami@valami*")
 (<sub> jelen állapotában nagyrészt ismétlődő sorokat tartalmaz </sub>)
 
+##Post
+> bevárt formátum:
+```
+{
+  "fristName": "string",
+  "lastName": "string";
+  "email": "string",
+  "phoneNumber": "string",
+  "hireDate": "2022-11-17T16:22:06.091Z",
+  "jobId": "string",
+  "salary": 0
+}
+```
+
 ## Controller
 > Post és get helye,
 post vizsgálattal try catchben tölt az adatbázisba, get egyszerűen csak listáz minden elemet
